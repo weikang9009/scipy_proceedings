@@ -652,8 +652,6 @@ Sequence Analysis to Neighborhood Change
 
 
 .. figure:: hamming_and_weighted.png
-   :align: center
-   :figclass: w
 
    Neighborhoods with similar spatial-social histories since 1980 :label:`f:trajclust`
 
